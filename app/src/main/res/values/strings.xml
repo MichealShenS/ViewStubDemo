@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidViewStub</string>
+    <string name="button_text">显示ViewStub的内容</string>
+    <string name="viewstub_text">我是ViewStub显示的内容</string>
+</resources>
